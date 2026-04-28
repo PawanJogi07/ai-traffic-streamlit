@@ -25,5 +25,6 @@ This project is an AI-based traffic monitoring system that analyzes real-time tr
 - Congestion detection using computer vision
 - Interactive dashboard using Streamlit
 - Visualization of traffic patterns and trends
+- ![Traffic Dashboard](traffic.png)
 
 ---
